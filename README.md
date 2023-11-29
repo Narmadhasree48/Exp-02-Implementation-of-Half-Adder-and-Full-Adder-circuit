@@ -42,20 +42,20 @@ Program to design a half adder and full adder circuit and verify its truth table
 ## Full Adder Circuit:
 ![Screenshot 2023-11-21 212632](https://github.com/Narmadhasree48/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979451/bcc38eb8-633b-4479-bde4-ab6c9b7b861f)
 ### Output:
-### RTL:
+### TRUTH TABLE:
  ##  Half Adder Circuit:
 ![Screenshot 2023-11-21 212643](https://github.com/Narmadhasree48/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979451/254679be-aaff-4ce5-bf82-6d790541ddee)
 
  ## Full Adder Circuit:
  ![Screenshot 2023-11-21 212650](https://github.com/Narmadhasree48/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979451/ed58476a-7747-4bbd-8a74-4736c7a14b61)
 
-### TIMING DIAGRAM:
+### RTL:
 ##  Half Adder Circuit:
 ![Screenshot 2023-11-21 212659](https://github.com/Narmadhasree48/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979451/dfb7115a-b766-46a1-8192-9df56a7bdbd5)
 ## Full Adder Circuit:
 ![Screenshot 2023-11-21 212706](https://github.com/Narmadhasree48/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979451/1cf906b6-d260-4d96-8f0d-10d3188d528b)
 
-### TRUTH TABLE:
+### WAVEFORM:
 ##  Half Adder Circuit:
 ![Screenshot 2023-11-21 212722](https://github.com/Narmadhasree48/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144979451/8482a7f0-9d57-4441-a97d-bb5ed0072362)
 ## Full Adder Circuit:
